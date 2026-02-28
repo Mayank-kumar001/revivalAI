@@ -1,0 +1,47 @@
+start	end	text
+0	140	based collections वाенное कफ़री कुछ।
+160	1080	All right!
+1240	3040	So Lingo.dev is back again
+3040	4060	with another hackathon.
+4360	6020	So as you might have seen the title
+6020	7380	and the thumbnail of this video
+7380	9860	Lingo.dev which is an AI powered
+9860	11200	localization tool
+11200	13460	is again hosting an hackathon
+13460	14540	and the best part is
+14540	15700	कि हमने पहले भी
+15700	16620	बहुँ सारब हागँतों
+16620	17160	and बहुती
+17160	18120	excited prices
+19340	20720	and the best part about
+20720	21680	these hackathons
+21680	23580	that are hosted by Lingo.dev is
+23580	24500	that these are
+24500	25920	open-ended hackathons
+25920	26920	आप रिधे तर्मिलोक।
+26920	33360	कुछ भी बना सकते है, whatever you want, right? The only condition is that you have to use their Lingo.dev tool.
+33760	43920	So, before we jump in, before I talk more, let me show you what this hackathon is, how to participate, and most importantly, what prizes are here. So, with that, let's start with the video.
+44440	51940	Alright, so you can see that this is the landing page of the hackathon. Link आपको दिस्रिप्शन में मिल जहेंगे. So, this is our second hackathon, जिसका नाम है, Multilingual Hackathon.
+56920	70840	and you have a mouse, but उसे पहले, let's see what is this particular thing, okay? What do you have to do? This is the most important thing. You can literally use any tech stack like React, Next.js, Superbase, Node.js, and you have to use Lingo.dev की toolkit.
+70840	84500	मतलब की आपके अप्लिकेशन के अंदर, Lingo.dev का कोई भी प्रोड़क्त आपको यूस करना है. It can be Lingo.dev का CLI, it can be your MCP, it can be a compiler, and it can just be a CICD pipeline as well, okay?
+84500	92560	So, आपको Lingo.dev के tools को use करना है. Any one tool you can use, or even you can use all the tools, that's up to you. And you have to build something exciting, okay?
+92560	107060	Now, what happens is, there is a criteria of evaluating. मतलब, जो यह prices है, यह किस basis पे मिलेंगे. So, there is a criteria कि आपने जो project बनाया है, उसका execution team को अच्छा लगता है, you get 40 points.
+107060	112860	अगर team को लगता है कि आपने जो efforts put की है, that is next level, you get 30 points.
+113260	120120	अगर आपकी presentation अच्छी है, you get 20 points. And अगर आपका idea बहुत ही unique है, बहुत ही अच्छा है, you get 10 points.
+120120	128140	So, you have to try to maximize your points. Okay, आप जितने ज्यादा यहां पर points ले सकते हो, that will help you to win these prizes.
+128300	136360	And the prizes are pretty cool. First price, iPad Air, और इस cash equivalent. मतलब, अगर आपको iPad नहीं ची, तो जितने का iPad आप उसका cash ले सकते हैं.
+136920	148980	Second price is basically a Sony wireless headphones, okay, और इस cash equivalent. And third price is basically Logitech का MX Master 3S, which is a go-to mouse for every developer. Okay, and again, for cash equivalent.
+148980	155400	अगर हम यहां पर और scroll down करते हैं, you will create an empty and a public GitHub repo after the kick-off call.
+155400	163280	तो आपके एक kick-off call होगी, एक Zoom meeting के उपर. Don't worry, जब आप इस particular hackathon के अंदर participate करेंगे, you will get all the updates.
+163720	172880	And push new commits and you should build. So, आपको बनाना क्या है? It's completely open-ended, मतलब, आप कुछ भी बना सकते हो. The best part, मतलब की creativity आपकी है.
+172880	176020	And आपके idea के आपको 10 points मिल रहे हैं.
+176020	181040	Okay? Second is, go over our subreddit and see the projects people have built in the past.
+181180	182700	So, ये एक inspiration के लिए अच्छा है.
+183260	189100	So, अगर आप यहां पर जाते हैं, you can actually see what people have built in their previous tasks.
+189200	191000	तीक है? So, आप यहां पर देख सकते हैं वो सारी चीजहे.
+191380	195520	I built a real-time video translator with voice learning. Amazing project, right?
+195520	225520	वापको बेराद कुछ आइपको बाट नाचा बैने बात बैने हुटेस पूर्ट के बैने हुटे हैं अप हमेशा अपने किसी साइड प्रोजेक्ट पे साइड हैं साइड हुपर काम कर रहे होते हैं और और आपको थे दो टेके टो नेक्स लेवर यू वांड कि वह एक रिगल
+225520	255520	तो आपने उस आइडिया को, आप अपने उस प्रोडुक्ट को in hackathons के अंदर लेकर जा सकते हो, you can actually do that particular hackathon, idea in this hackathon, आपको बस लिंगो.dev को यूस करना है, which anyway you have to use, because your application needs an internationalization, तो ये चीज़े आपकी help करते हैं to get a public visibility, and you come to know कि आप कहां stand करते हो, so these open-ended hackathons बहुत कम है market में, so I
+255520	285520	to see how good developer you are, how good builder you are, आप community में किस level पर stand करते हो, definitely participate in these, and try कि आपको क्या feedback मिलता है, you will come to know a lot of things about yourself, okay, and plus one more thing, there is a discord link, जो मेने नीचे description में पिन किया है, please make sure to check that out, let me show you what that discord is, and one more thing, please make sure to check out their discord channel, so you have to join their discord link, so that link भी आपको नीचे description में मिल चाहेगा, so
+285520	315520	यहां पर आपको सभी announcements, सभी चीज़े यहां पर मिलते रहेंगी, all the updates, for example, यह हमारी पिछली hackathon के updates है, that it has been, submissions are being extended and all, so please make sure that आप इनका discord channel भी जोइन करो, to get all the updates in this particular thing, okay, so this was all about this particular hackathon, so I wish you a very best of luck, once again, it is starting on 16th February, okay, and link आपको यहां पर मिल जाहेंगे, description के दे सभी links है, अगर यह
+315520	316520	

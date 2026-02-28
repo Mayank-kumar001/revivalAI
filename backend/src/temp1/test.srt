@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:07,000
+Alright, this is a very important video, please watch it and please share it.
+
+2
+00:00:07,000 --> 00:00:11,000
+Before that, let me tell you two important things about UPI.
+
+3
+00:00:11,000 --> 00:00:17,000
+UPI doesn't allow you to transact only 20 transactions or 1 lakh rupees a day.
+
+4
+00:00:17,000 --> 00:00:20,000
+Now this limit gets hit quickly and we can't transact after that.
+
+5
+00:00:20,000 --> 00:00:25,000
+Second important thing, if you know a little about banking automation,
+
+6
+00:00:25,000 --> 00:00:32,000
+then you should know that if you have a little mistake in your name in the bank and in the system,
+
+7
+00:00:32,000 --> 00:00:34,000
+then the transaction fails.
+
+8
+00:00:34,000 --> 00:00:36,000
+Why am I telling you all this?
+
+9
+00:00:36,000 --> 00:00:39,000
+Because in our affiliates there are all these issues.
+
+10
+00:00:39,000 --> 00:00:42,000
+So I thought I should address all these issues to you.
+
+11
+00:00:42,000 --> 00:00:46,000
+Why did the payment fail and how are we handling the payments manually?
+
+12
+00:00:46,000 --> 00:00:54,000
+So the first thing is that our tea code affiliates are only in India and we only pay in India.
+
+13
+00:00:54,000 --> 00:00:59,000
+So please don't try it or don't try it.
+
+14
+00:00:59,000 --> 00:01:01,000
+This is only for India.
+
+15
+00:01:01,000 --> 00:01:06,000
+The second important thing is that we saw that some people, many people in fact,
+
+16
+00:01:06,000 --> 00:01:09,000
+made some mistakes in their name.
+
+17
+00:01:09,000 --> 00:01:10,000
+Your name can be in banking.
+
+18
+00:01:10,000 --> 00:01:14,000
+Some are starting from Mr. or Mrs.
+
+19
+00:01:14,000 --> 00:01:17,000
+Many people have made a lot of mistakes in the last name.
+
+20
+00:01:17,000 --> 00:01:21,000
+Just like your name is in the bank, write exactly the same name.
+
+21
+00:01:21,000 --> 00:01:23,000
+In the caps, write the caps as well.
+
+22
+00:01:23,000 --> 00:01:25,000
+But still, don't take the risk.
+
+23
+00:01:25,000 --> 00:01:27,000
+Write the name as it is.
+
+24
+00:01:27,000 --> 00:01:32,000
+Because the UPI transaction limit is only 1 lakh and 20 transactions end quickly.
+
+25
+00:01:32,000 --> 00:01:37,000
+And when there are so many mistakes and failures, then the automatic payment of the razor cannot be paid.
+
+26
+00:01:37,000 --> 00:01:40,000
+So we are paying a lot of money manually.
+
+27
+00:01:40,000 --> 00:01:45,000
+But obviously, it will take time because the payments are enough and there are banking limits.
+
+28
+00:01:45,000 --> 00:01:48,000
+So my humble request is that you should go to the account.
+
+29
+00:01:48,000 --> 00:01:50,000
+Check your bank again.
+
+30
+00:01:50,000 --> 00:01:52,000
+Bank account number, IFSC code.
+
+31
+00:01:52,000 --> 00:01:55,000
+Other than that, your name is exactly the same as in the past book.
+
+32
+00:01:55,000 --> 00:01:58,000
+Same last name, exactly the same.
+
+33
+00:01:58,000 --> 00:02:01,000
+Otherwise, the payment fails and you don't get the payment on time.
+
+34
+00:02:01,000 --> 00:02:02,000
+What happens with that?
+
+35
+00:02:02,000 --> 00:02:04,000
+When so many webhooks fail,
+
+36
+00:02:04,000 --> 00:02:07,000
+the razor often stops us from paying.
+
+37
+00:02:07,000 --> 00:02:11,000
+Then we have to do the transaction process again.
+
+38
+00:02:11,000 --> 00:02:15,000
+Which is very painful and you can't get the payment on time.
+
+39
+00:02:15,000 --> 00:02:17,000
+So please, it is a humble request.
+
+40
+00:02:17,000 --> 00:02:19,000
+Go to the system once and check.
+
+41
+00:02:19,000 --> 00:02:21,000
+All things should be accurate.
+
+42
+00:02:21,000 --> 00:02:23,000
+And the rest we are doing.
+
+43
+00:02:23,000 --> 00:02:27,000
+We will take a few more weeks because we are paying manually and the limit gets hit.
+
+44
+00:02:27,000 --> 00:02:30,000
+So whatever time it takes, it will take.
+
