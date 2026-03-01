@@ -3,8 +3,10 @@ import { AnimatePresence, motion } from "framer-motion";
 
 import Login from "./pages/Auth/Login";
 import Signup from "./pages/Auth/Signup";
-import Home from "./pages/Auth/Home";
+import Upload from "./pages/Auth/Upload";
 import ProtectedRoute from "./components/ProtectedRoute";
+import LandingPage from "./pages/Home";
+import AuthPage from "./pages/Auth/AuthPage";
 
 const PageWrapper = ({ children }) => (
   <motion.div
@@ -26,9 +28,20 @@ function AnimatedRoutes() {
         <Route
           path="/"
           element={
+            
+              <PageWrapper>
+                <LandingPage />
+              </PageWrapper>
+            
+          }
+        />
+        <Route path="/auth" element={<AuthPage />} />
+        <Route
+          path="/upload"
+          element={
             <ProtectedRoute>
               <PageWrapper>
-                <Home />
+                <Upload />
               </PageWrapper>
             </ProtectedRoute>
           }

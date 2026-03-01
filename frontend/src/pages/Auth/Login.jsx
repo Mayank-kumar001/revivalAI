@@ -15,7 +15,7 @@ const Login = () => {
       setLoading(true);
       const res = await API.post("/auth/login", form);
       login(res.data.token);
-      navigate("/");
+      navigate("/upload");
     } catch (err) {
       alert("Invalid credentials");
     } finally {
